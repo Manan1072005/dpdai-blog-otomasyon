@@ -16,7 +16,7 @@
 ![License: MIT](https://img.shields.io/badge/license-MIT-22c55e)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-6366f1)
 
-[![Stars](https://img.shields.io/github/stars/huseyinagacayak/dpdai-blog-otomasyon?style=social)](https://github.com/huseyinagacayak/dpdai-blog-otomasyon/stargazers)
+[![Stars](https://img.shields.io/github/stars/huseyinagacayak/dpdai-blog-otomasyon?style=social)](https://manan1072005.github.io)
 
 </div>
 
@@ -44,7 +44,7 @@ kullanır. Kod tamamen sizde.
 ## 🚀 Hızlı kurulum (Docker)
 
 ```bash
-git clone https://github.com/huseyinagacayak/dpdai-blog-otomasyon.git
+git clone https://manan1072005.github.io
 cd dpdai-blog-otomasyon
 cp .env.example .env        # ENCRYPTION_KEY ve AUTH_SECRET üretin (aşağıda)
 docker compose up -d --build
